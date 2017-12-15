@@ -1,0 +1,35 @@
+#footer{
+    border-top:1px solid #D3D3D3;
+}
+.footer{
+    width:960px;
+    margin:0 auto;
+}
+.left{
+    float:left;
+    margin:20px;
+}
+.left p:first-child{
+  margin-bottom:10px;
+}
+.right{
+    float:right;
+    margin-top:15px;
+}
+.right>a{
+    margin-left:20px;
+}
+.font-1{
+    font-size:12px;
+    color:#999999;
+    margin-right:5px;
+}
+.font-1:hover{
+    text-decoration:underline;
+}
+.font-2{
+    color:#666666;
+}
+.font-2>a:hover{
+    text-decoration: underline;
+}
